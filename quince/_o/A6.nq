@@ -1,0 +1,2 @@
+﻿<http://datadock.io/kal/data_dev/id/resource/library/Newburn> <http://purl.org/dc/elements/1.1/title> "Newburn"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/kal/data_dev/id/dataset/Newcastle\u0020Libraries\u0020List.csv>.
+<http://datadock.io/kal/data_dev/id/resource/library/West\u0020End> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "54.971385"^^<http://www.w3.org/2001/XMLSchema#decimal> <http://datadock.io/kal/data_dev/id/dataset/Newcastle\u0020Libraries\u0020List.csv>.

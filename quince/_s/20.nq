@@ -1,0 +1,2 @@
+﻿<http://datadock.io/kal/data_dev/id/resource/missing_column_header1.csv/row_1> <http://datadock.io/kal/data_dev/id/definition/column1> "A"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/kal/data_dev/id/dataset/missing_column_header1.csv>.
+<http://datadock.io/kal/data_dev/id/resource/missing_column_header1.csv/row_1> <http://datadock.io/kal/data_dev/id/definition/column3> "Some Value"^^<http://www.w3.org/2001/XMLSchema#integer> <http://datadock.io/kal/data_dev/id/dataset/missing_column_header1.csv>.

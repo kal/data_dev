@@ -1,0 +1,2 @@
+﻿<http://datadock.io/kal/data_dev/id/resource/station/tokyo-metro-代々木公園駅> <http://datadock.io/kal/data_dev/id/definition/station_name_english> "Yoyogi-Kōen"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/kal/data_dev/id/dataset/Tokyo\u0020Metro\u0020Stations.csv>.
+<http://datadock.io/kal/data_dev/id/resource/station/tokyo-metro-新宿三丁目駅> <http://datadock.io/kal/data_dev/id/definition/station_name_english> "Shinjuku-sanchōme"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/kal/data_dev/id/dataset/Tokyo\u0020Metro\u0020Stations.csv>.
