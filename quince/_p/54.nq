@@ -1,0 +1,3 @@
+﻿<http://datadock.io/kal/data_dev/id/dataset/Newcastle\u0020Libraries\u0020List.csv> <http://www.w3.org/ns/dcat#keyword> "libraries"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/kal/data_dev/id/dataset/Newcastle\u0020Libraries\u0020List.csv/metadata>.
+<http://datadock.io/kal/data_dev/id/dataset/Newcastle\u0020Libraries\u0020List.csv> <http://www.w3.org/ns/dcat#keyword> "newcastle"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/kal/data_dev/id/dataset/Newcastle\u0020Libraries\u0020List.csv/metadata>.
+<http://datadock.io/kal/data_dev/id/dataset/publisher> <http://xmlns.com/foaf/0.1/homepage> <http://networkedplanet.com/> <http://datadock.io/kal/data_dev/metadata>.
