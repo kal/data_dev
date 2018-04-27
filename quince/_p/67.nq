@@ -1,2 +1,1 @@
 ﻿<http://datadock.io/kal/data_dev/id/dataset/Tokyo\u0020Metro\u0020Lines.csv> <http://purl.org/dc/terms/description> "This is some description text"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/kal/data_dev/id/dataset/Tokyo\u0020Metro\u0020Lines.csv/metadata>.
-<http://datadock.io/kal/data_dev/id/dataset/Tokyo\u0020Metro\u0020Stops_dev.csv> <http://purl.org/dc/terms/description> "tokyo metro stops"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/kal/data_dev/id/dataset/Tokyo\u0020Metro\u0020Stops_dev.csv/metadata>.
