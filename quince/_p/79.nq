@@ -13,3 +13,7 @@
 <http://datadock.io/kal/data_dev/id/definition/station> <http://www.w3.org/2000/01/rdf-schema#label> "station"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/kal/data_dev/definitions>.
 <http://datadock.io/kal/data_dev/id/definition/stop> <http://www.w3.org/2000/01/rdf-schema#label> "stop"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/kal/data_dev/definitions>.
 <http://datadock.io/kal/data_dev/id/definition/type> <http://www.w3.org/2000/01/rdf-schema#label> "Type"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/kal/data_dev/definitions>.
+<http://localhost:5000/kal/data_dev/id/definition/line_colour> <http://www.w3.org/2000/01/rdf-schema#label> "line_colour"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/kal/data_dev/definitions>.
+<http://localhost:5000/kal/data_dev/id/definition/line_name_english> <http://www.w3.org/2000/01/rdf-schema#label> "line name english"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/kal/data_dev/definitions>.
+<http://localhost:5000/kal/data_dev/id/definition/line_name_french> <http://www.w3.org/2000/01/rdf-schema#label> "line name french"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/kal/data_dev/definitions>.
+<http://localhost:5000/kal/data_dev/id/definition/line_name> <http://www.w3.org/2000/01/rdf-schema#label> "line name"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/kal/data_dev/definitions>.
