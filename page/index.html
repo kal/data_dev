@@ -12,7 +12,6 @@
 
 		<!-- DataDock Theme Extensions -->
 		<link rel="stylesheet" href="https://datadock.io/css/portal.css" />
-		<link rel="stylesheet" href="https://datadock.io/Content/datadock-portal.css" />
 
 		<link rel="alternate" type="application/n-quads" href="http://datadock.io/kal/data_dev/data/void.nq"/>
 
@@ -600,6 +599,81 @@
                     </div><!-- end card -->
                     
 				
+				<div class="card" property="void:subset" resource="http://datadock.io/kal/data_dev/id/dataset/newcastlelibrarieslistcsv">
+					<div class="content" about="http://datadock.io/kal/data_dev/id/dataset/newcastlelibrarieslistcsv">
+						
+						<div class="header">
+							<h3 property="dc:title"><a href="http://datadock.io/kal/data_dev/id/dataset/newcastlelibrarieslistcsv">Newcastle_Libraries_List.csv</a></h3>
+						</div>
+						<div class="">
+						<dl>
+							<dt>Identifier:</dt>
+							<dd>http://datadock.io/kal/data_dev/id/dataset/newcastlelibrarieslistcsv</dd>
+							<dt>Modified:</dt>
+							<dd>
+																
+									<span property="dc:modified" datatype="http://www.w3.org/2001/XMLSchema#date">2018-12-22</span>
+								
+							</dd>
+							<dt>License:</dt>
+							<dd>
+								
+								
+									
+											<a property="dc:license" href="https://creativecommons.org/publicdomain/zero/1.0/">CC-0 (Public Domain)</a>
+										
+								
+							</dd>
+							<dt>Description:</dt>
+							<dd>
+								
+								
+									<span property="dc:description">Libraries in the Newcastle area.</span>
+								
+							</dd>
+						
+
+																						<dt class="ds-tags">Tags:</dt>
+									<dd class="ds-tags">
+										<ul>
+										
+											<li><a href="https://datadock.io/search?tag=newcastle" class="ui tag label"><span about="http://datadock.io/kal/data_dev/id/dataset/newcastlelibrarieslistcsv" property="dcat:keyword">newcastle</span></a></li>
+										
+										 </ul>
+									</dd>
+													</dl>
+						</div>
+                        </div><!-- end content -->
+
+					<div class="extra content">
+						<span class="right floated">
+							  <div class="ui mini statistic">
+								<div class="value">
+									
+									
+										<span property="void:triples" datatype="http://www.w3.org/2001/XMLSchema#integer">91</span>
+									
+								</div>
+								<div class="label">
+									Triples
+								</div>
+							</div>
+							</span> 
+
+						  														
+
+								
+									
+																			<a property="void:dataDump" class="ui primary button mr" href="http://datadock.io/kal/data_dev/csv/newcastlelibrarieslistcsv/Newcastle_Libraries_List.csv"><i class="download icon"></i>CSV</a>
+																	
+									
+																			<a property="void:dataDump" class="ui primary button mr" href="https://github.com/kal/data_dev/releases/download/newcastlelibrarieslistcsv_20181222_160034/newcastlelibrarieslistcsv_20181222_160034.nt.gz"><i class="download icon"></i>N-QUADS</a>
+																	
+												</div> <!-- end extra content -->
+
+                    </div><!-- end card -->
+                    
+				
 				<div class="card" property="void:subset" resource="http://datadock.io/kal/data_dev/id/dataset/Tokyo Metro Lines.csv">
 					<div class="content" about="http://datadock.io/kal/data_dev/id/dataset/Tokyo Metro Lines.csv">
 						
@@ -1083,7 +1157,7 @@
   <!-- Jquery, Semantic-UI JS -->
   <script src="https://code.jquery.com/jquery-3.2.1.min.js" integrity="sha256-hwg4gsxgFZhOsEEamdOYGBf13FyQuiTwlAQgxVSNgt4=" crossorigin="anonymous"></script>
   <script src="https://cdn.jsdelivr.net/npm/semantic-ui@2.2.13/dist/semantic.min.js" integrity="sha256-Bhi6GMQ/72uYZcJXCJ2LToOIcN3+Cx47AZnq/Bw1f7A=" crossorigin="anonymous"></script>
-  <script src="https://cdnjs.cloudflare.com/ajax/libs/moment.js/2.20.1/moment.js" integrity="sha256-2/3+Q1kMYR8MDaqFPNBgmLgiqWJjySkg1wqLx/iE5Zo=" crossorigin="anonymous"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/moment.js/2.20.1/moment.min.js" integrity="sha256-ABVkpwb9K9PxubvRrHMkk6wmWcIHUE9eBxNZLXYQ84k=" crossorigin="anonymous"></script>
   <script>
     $(document).ready(function(){
 		$('#tags').keypress(function(e){
@@ -1093,7 +1167,7 @@
     });
     var searchUri = 'https://datadock.io/api/search/kal/data_dev';
   </script>
-  <script src="https://cdn.jsdelivr.net/gh/jennet/datadockjs@v0.1-alpha/datadock.portal.js" crossorigin="anonymous"></script>
+  <script src="/js/datadock.portal.js" crossorigin="anonymous"></script>
 
 </body>
 </html>
