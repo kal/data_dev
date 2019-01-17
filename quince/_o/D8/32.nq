@@ -1,0 +1,2 @@
+﻿<http://datadock.io/kal/data_dev/id/resource/stop/H-19> <http://datadock.io/kal/data_dev/id/definition/stop> "H-19"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/kal/data_dev/id/dataset/Tokyo\u0020Metro\u0020Stops_dev.csv>.
+<http://datadock.io/kal/data_dev/id/resource/Tokyo\u0020Metro\u0020Stops_dev.csv/stop/H-19> <http://datadock.io/kal/data_dev/id/definition/stop> "H-19"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/kal/data_dev/id/dataset/Tokyo\u0020Metro\u0020Stops_dev.csv>.
