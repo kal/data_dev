@@ -11,6 +11,7 @@
 <http://datadock.io/kal/data_dev/id/definition/extant> <http://www.w3.org/2000/01/rdf-schema#label> "EXTANT"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/kal/data_dev/definitions>.
 <http://datadock.io/kal/data_dev/id/definition/known_as> <http://www.w3.org/2000/01/rdf-schema#label> "KNOWN_AS"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/kal/data_dev/definitions>.
 <http://datadock.io/kal/data_dev/id/definition/latitude> <http://www.w3.org/2000/01/rdf-schema#label> "Latitude"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/kal/data_dev/definitions>.
+<http://datadock.io/kal/data_dev/id/definition/latitude> <http://www.w3.org/2000/01/rdf-schema#label> "LATITUDE"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/kal/data_dev/definitions>.
 <http://datadock.io/kal/data_dev/id/definition/library> <http://www.w3.org/2000/01/rdf-schema#label> "Library"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/kal/data_dev/definitions>.
 <http://datadock.io/kal/data_dev/id/definition/line_colour> <http://www.w3.org/2000/01/rdf-schema#label> "line_colour"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/kal/data_dev/definitions>.
 <http://datadock.io/kal/data_dev/id/definition/line_name_english> <http://www.w3.org/2000/01/rdf-schema#label> "line name english"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/kal/data_dev/definitions>.
@@ -21,6 +22,7 @@
 <http://datadock.io/kal/data_dev/id/definition/listed_building_no> <http://www.w3.org/2000/01/rdf-schema#label> "LISTED_BUILDING_NO"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/kal/data_dev/definitions>.
 <http://datadock.io/kal/data_dev/id/definition/location_1> <http://www.w3.org/2000/01/rdf-schema#label> "Location 1"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/kal/data_dev/definitions>.
 <http://datadock.io/kal/data_dev/id/definition/longitude> <http://www.w3.org/2000/01/rdf-schema#label> "Longitude"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/kal/data_dev/definitions>.
+<http://datadock.io/kal/data_dev/id/definition/longitude> <http://www.w3.org/2000/01/rdf-schema#label> "LONGITUDE"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/kal/data_dev/definitions>.
 <http://datadock.io/kal/data_dev/id/definition/month> <http://www.w3.org/2000/01/rdf-schema#label> "month"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/kal/data_dev/definitions>.
 <http://datadock.io/kal/data_dev/id/definition/monument_desc> <http://www.w3.org/2000/01/rdf-schema#label> "MONUMENT_DESC"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/kal/data_dev/definitions>.
 <http://datadock.io/kal/data_dev/id/definition/monument_record_no> <http://www.w3.org/2000/01/rdf-schema#label> "MONUMENT_RECORD_NO"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/kal/data_dev/definitions>.

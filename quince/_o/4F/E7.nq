@@ -1,0 +1,2 @@
+﻿<http://datadock.io/kal/data_dev/id/dataset/bristolMonuments> <http://rdfs.org/ns/void#exampleResource> <http://datadock.io/kal/data_dev/id/resource/monument_record_no/1697M> <http://datadock.io/kal/data_dev/id/dataset/bristolMonuments/metadata>.
+<http://datadock.io/kal/data_dev/id/dataset/bristolMonumentsLatlongcsv> <http://rdfs.org/ns/void#exampleResource> <http://datadock.io/kal/data_dev/id/resource/monument_record_no/1697M> <http://datadock.io/kal/data_dev/id/dataset/bristolMonumentsLatlongcsv/metadata>.
