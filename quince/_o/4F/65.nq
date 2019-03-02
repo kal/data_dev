@@ -1,1 +1,2 @@
-﻿
+﻿<http://datadock.io/kal/data_dev/id/resource/monument_record_no/809M> <http://datadock.io/kal/data_dev/id/definition/known_as> "64, Colston Street"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/kal/data_dev/id/dataset/bristolMonumentscsv>.
+<http://datadock.io/kal/data_dev/id/resource/monument_record_no/809M> <http://datadock.io/kal/data_dev/id/definition/postal_address> "64, Colston Street"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/kal/data_dev/id/dataset/bristolMonumentscsv>.

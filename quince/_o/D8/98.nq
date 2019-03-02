@@ -1,1 +1,4 @@
-﻿
+﻿<http://datadock.io/kal/data_dev/id/resource/monument_record_no/1577M> <http://datadock.io/kal/data_dev/id/definition/northing> "172235"^^<http://www.w3.org/2001/XMLSchema#integer> <http://datadock.io/kal/data_dev/id/dataset/bristolMonumentscsv>.
+<http://datadock.io/kal/data_dev/id/resource/monument_record_no/1579M> <http://datadock.io/kal/data_dev/id/definition/northing> "172235"^^<http://www.w3.org/2001/XMLSchema#integer> <http://datadock.io/kal/data_dev/id/dataset/bristolMonumentscsv>.
+<http://datadock.io/kal/data_dev/id/resource/monument_record_no/1620M> <http://datadock.io/kal/data_dev/id/definition/northing> "172235"^^<http://www.w3.org/2001/XMLSchema#integer> <http://datadock.io/kal/data_dev/id/dataset/bristolMonumentscsv>.
+<http://datadock.io/kal/data_dev/id/resource/monument_record_no/281M> <http://datadock.io/kal/data_dev/id/definition/northing> "172235"^^<http://www.w3.org/2001/XMLSchema#integer> <http://datadock.io/kal/data_dev/id/dataset/bristolMonumentscsv>.

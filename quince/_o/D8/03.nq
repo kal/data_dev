@@ -1,1 +1,2 @@
-﻿
+﻿<http://datadock.io/kal/data_dev/id/resource/monument_record_no/1498M> <http://datadock.io/kal/data_dev/id/definition/location_1> "(51.46147, -2.5884819)"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/kal/data_dev/id/dataset/bristolMonumentscsv>.
+<http://datadock.io/kal/data_dev/id/resource/monument_record_no/983M> <http://datadock.io/kal/data_dev/id/definition/postal_address> "Waring House Car Park, Redcliff Hill"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/kal/data_dev/id/dataset/bristolMonumentscsv>.
