@@ -1,3 +1,0 @@
-﻿<http://datadock.io/kal/data_dev/id/resource/monument_record_no/35M> <http://datadock.io/kal/data_dev/id/definition/monument_record_no> "35M"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/kal/data_dev/id/dataset/bristolMonumentsGeolocation>.
-<http://datadock.io/kal/data_dev/id/resource/monument_record_no/35M> <http://www.w3.org/2003/01/geo/wgs84_pos#latitude> "51.455574"^^<http://www.w3.org/2001/XMLSchema#decimal> <http://datadock.io/kal/data_dev/id/dataset/bristolMonumentsGeolocation>.
-<http://datadock.io/kal/data_dev/id/resource/monument_record_no/35M> <http://www.w3.org/2003/01/geo/wgs84_pos#longitude> "-2.5898596"^^<http://www.w3.org/2001/XMLSchema#decimal> <http://datadock.io/kal/data_dev/id/dataset/bristolMonumentsGeolocation>.
