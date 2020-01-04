@@ -1,3 +1,2 @@
 ﻿<http://datadock.io/kal/data_dev/id/resource/monument_record_no/1172M> <http://datadock.io/kal/data_dev/id/definition/known_as> "93, Stokes Croft"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/kal/data_dev/id/dataset/bristolMonumentscsv>.
 <http://datadock.io/kal/data_dev/id/resource/monument_record_no/1172M> <http://datadock.io/kal/data_dev/id/definition/postal_address> "93, Stokes Croft"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/kal/data_dev/id/dataset/bristolMonumentscsv>.
-<http://datadock.io/kal/data_dev/id/resource/monument_record_no/1940M> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "51.488781"^^<http://www.w3.org/2001/XMLSchema#decimal> <http://datadock.io/kal/data_dev/id/dataset/bristolMonumentsLatlongcsv>.
