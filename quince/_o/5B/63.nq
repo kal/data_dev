@@ -1,2 +1,1 @@
 ﻿<http://datadock.io/kal/data_dev/id/dataset/missing_column_header1.csv> <http://purl.org/dc/terms/modified> "2017-05-11"^^<http://www.w3.org/2001/XMLSchema#date> <http://datadock.io/kal/data_dev/id/dataset/missing_column_header1.csv/metadata>.
-<http://datadock.io/kal/data_dev/id/resource/monument_record_no/2335M> <http://datadock.io/kal/data_dev/id/definition/postal_address> "Arley Hill"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/kal/data_dev/id/dataset/bristolMonumentscsv>.

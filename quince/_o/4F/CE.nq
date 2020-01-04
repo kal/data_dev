@@ -1,2 +1,1 @@
 ﻿<http://datadock.io/kal/data_dev/id/dataset/Newcastle\u0020Libraries\u0020List.csv> <http://rdfs.org/ns/void#exampleResource> <http://datadock.io/kal/data_dev/id/resource/Newcastle\u0020Libraries\u0020List.csv/library/Cruddas> <http://datadock.io/kal/data_dev/id/dataset/Newcastle\u0020Libraries\u0020List.csv/metadata>.
-<http://datadock.io/kal/data_dev/id/resource/monument_record_no/604M> <http://datadock.io/kal/data_dev/id/definition/northing> "172277"^^<http://www.w3.org/2001/XMLSchema#integer> <http://datadock.io/kal/data_dev/id/dataset/bristolMonumentscsv>.
