@@ -1,0 +1,2 @@
+﻿<http://datadock.io/kal/data_dev/id/resource/dateTime/row_1> <http://datadock.io/kal/data_dev/id/definition/thing> "A"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/kal/data_dev/id/dataset/dateTime>.
+<http://datadock.io/kal/data_dev/id/resource/dateTime/row_2> <http://datadock.io/kal/data_dev/id/definition/thing> "B"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/kal/data_dev/id/dataset/dateTime>.
